@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="961" started-at="2020-06-04T17:35:28 EDT" finished-at="2020-06-04T17:35:29 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="961" started-at="2020-06-04T17:35:28 EDT" finished-at="2020-06-04T17:35:29 EDT">
+      <class name="Utils.Testsheet">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Utils.Testsheet@67b92f0a]" name="beforeClass" is-config="true" duration-ms="888" started-at="2020-06-04T17:35:28 EDT" finished-at="2020-06-04T17:35:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="readdata()[pri:0, instance:Utils.Testsheet@67b92f0a]" name="readdata" duration-ms="23" started-at="2020-06-04T17:35:29 EDT" finished-at="2020-06-04T17:35:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readdata -->
+      </class> <!-- Utils.Testsheet -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
